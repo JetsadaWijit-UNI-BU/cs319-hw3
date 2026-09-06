@@ -350,9 +350,12 @@ span.btn {
   line-height: 34px;
   color: #ffffff;
   border-radius: 0px;
-  background: #a2c044;
+  background: #6380df;
   border: none;
   margin-top: 10px;
+}
+.templatemo_form button:hover {
+	background-color: #1c47d3;
 }
 .templatemo_form input {
 	height: 34px;	
